@@ -1,0 +1,19 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  border: 5px solid blue;
+  display: flex;
+  justify-content: center;
+}
+
+.top-div {
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: darkviolet;
+  text-decoration: none;
+  margin-left: 50px;
+}
